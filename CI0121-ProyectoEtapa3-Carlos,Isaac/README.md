@@ -44,7 +44,6 @@ Proyecto3/
 ├── commands.txt          # reglas de la tabla de reenvio (simple_switch_CLI)
 ├── Makefile              # compilar / correr / limpiar
 ├── README.md             # informacion del proyecto
-├── generar_graficas.py   # genera las graficas del informe a partir de los .csv
 ├── test-graficas/        # resutados de test y las graficas
 ├── scripts/
 │   ├── dns_server.py     # servidor DNS simulado (corre en h5)
